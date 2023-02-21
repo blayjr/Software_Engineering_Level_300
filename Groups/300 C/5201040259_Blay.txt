@@ -1,1 +1,61 @@
 
+ANSWERS
+Question 1
+A software process model is an abstract representation of a process. It presents a description of a process from some particular perspective.
+Some of the importance of software process model are;
+a)It improves the productivity of the development team
+b)It reduces the number of defects in the final code
+c)It increases the decomposition and modularization of the system
+d)It facilitates the system’s evolution AND maintenance
+
+Question 2
+a) The traditional waterfall methodology for software development is rapidly losing its popularity as Agile methodology is now being increasingly adopted by companies worldwide for software development.
+b)The software development process is divided into different phases in the Waterfall model while Agile methodology segregates the project development life cycle into sprints.
+c)One of the major differences between Agile and Waterfall development methodology is their individual approach towards quality and testing. In the Waterfall model, the "Testing" phase comes after the "Build" phase, but, in the Agile methodology, testing is typically performed concurrently with programming or at least in the same iteration as programming
+d)The Waterfall model can be regarded as a stringently sequential process, however, the Agile methodology is a highly collaborative software development process, thereby leading to better team input and faster problem solving
+While Waterfall methodology is an internal process and does not require the participation of customers, the Agile software development approach focuses on customer satisfaction and thus, involves the participation of customers throughout the development phase
+The Waterfall model exhibits a project mindset and lays its focus strictly on the completion of project development, while Agile introduces a product mindset that focuses on ensuring that the developed product satisfies its end customers, and changes itself as the requisites of customers change
+
+Question 3
+A process model which brings together elements from all generic process models, illustrates good practice in specification and design and supports prototyping and incremental delivery.
+on the otherhand software development process model describes an approach to building, deploying and possibly maintaining software
+
+There is total of five phases of the life cycle of RUP;
+a) Inception
+Communication and planning are the main ones.
+Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+
+b) Elaboration 
+Planning and modeling are the main ones.
+A detailed evaluation and development plan is carried out and diminishes the risks.
+Revise or redefine the use-case model (approx. 80%), business case, and risks.
+
+c) Construction 
+The project is developed and completed.
+System or source code is created and then testing is done.
+Coding takes place.
+
+d) Transition
+The final project is released to the public.
+Transit the project from development into production.
+Update project documentation.
+Beta testing is conducted.
+
+e) Production
+The final phase of the model.
+The project is maintained and updated accordingly.
+ 
+ Some of the benefits of software development process model in software development projects are;
+a) It provides good documentation, it completes the process in itself.
+b) It provides risk-management support.
+c) It reuses the components, and hence total time duration is less.
+d) Good online support is available in the form of tutorials and training.
+
+Some of the drawbacks of using this approach in software development project are ;
+
+a) Team of expert professional is required, as the process is complex.
+b) Complex and not properly organized process.
+c) More dependency on risk management.
+d) Hard to integrate again and again.
+
